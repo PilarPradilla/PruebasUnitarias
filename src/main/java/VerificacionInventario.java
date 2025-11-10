@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// comentario prueba
 class Producto {
     String nombre;
     int stock;
